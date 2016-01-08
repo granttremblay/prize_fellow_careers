@@ -1,6 +1,8 @@
 # prize_fellow_careers
 :mortar_board: Career paths for NASA prize postdocs
 
+Click [here](https://github.com/ebellm/prize_fellow_careers/blob/master/prize_fellow_careers.ipynb) to see the analysis.
+
 Data [here](https://docs.google.com/spreadsheets/d/1EVYbK92kJre6aAnDzYVsj_EdpfG9a4qo2ZBjnnumME0/edit?usp=sharing).
 
 Compiled from:
